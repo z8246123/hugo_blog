@@ -1,0 +1,25 @@
+baseurl = "https://example.com"
+languageCode = "zh-TW"
+defaultContentLanguage = "zh"
+title = "Hugo Theme Dream"
+theme = "hugo-theme-dream"
+
+copyright = "Copyright (c) 2017, g1eny0ung; all rights reserved."
+
+# enableRobotsTXT = true
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+[params]
+  author = "05360365 徐友笙"
+  motto = "殘缺不全"
+  description = "T督"
+  # avatar = ""
+  avatar = "/img/avatar.jpg"
+  email = "asdwsx987123@gmail.com"
+  github = "z8246123"
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
